@@ -1,6 +1,6 @@
 {
   "name": "hi-sven",
-  "version": "1.5.22",
+  "version": "1.5.23",
   "description": "Say hi to Sven",
   "main": "index.js",
   "scripts": {
