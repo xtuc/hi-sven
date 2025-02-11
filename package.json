@@ -1,6 +1,6 @@
 {
   "name": "hi-sven",
-  "version": "1.29.0",
+  "version": "1.30.0",
   "description": "Say hi to Sven",
   "main": "index.js",
   "module": "index.mjs",
